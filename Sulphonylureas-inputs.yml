@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/sulphonylureas-hillcross---primary.py
+inputModule3:
+  class: File
+  path: python/sulphonylureas-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/sulphonylureas-glibenclamide---primary.py
+inputModule5:
+  class: File
+  path: python/sulphonylureas-malix---primary.py
+inputModule6:
+  class: File
+  path: python/sulphonylureas-lagap---primary.py
+inputModule7:
+  class: File
+  path: python/sulphonylureas-diabinese---primary.py
+inputModule8:
+  class: File
+  path: python/sulphonylureas-libanil---primary.py
+inputModule9:
+  class: File
+  path: python/sulphonylureas-diabetamide---primary.py
+inputModule10:
+  class: File
+  path: python/sulphonylureas---primary.py
+inputModule11:
+  class: File
+  path: python/sulphonylureas-celltech---primary.py
+inputModule12:
+  class: File
+  path: python/sulphonylureas-pharm---primary.py
+inputModule13:
+  class: File
+  path: python/sulphonylureas-alphar---primary.py
+inputModule14:
+  class: File
+  path: python/sulphonylureas-calabren---primary.py
+inputModule15:
+  class: File
+  path: python/sulphonylureas-chlorpropamide---primary.py
+inputModule16:
+  class: File
+  path: python/sulphonylureas-sussex---primary.py
+inputModule17:
+  class: File
+  path: python/sulphonylureas-euglucon---primary.py
+inputModule18:
+  class: File
+  path: python/sulphonylureas-250mg---primary.py
+inputModule19:
+  class: File
+  path: python/sulphonylureas-grenamide---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
